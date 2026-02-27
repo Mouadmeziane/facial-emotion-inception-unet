@@ -77,7 +77,7 @@ Created by **Dr. Fatma M. Talaat**, this dataset focuses on facial emotion recog
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/facial-emotion-inception-unet.git
+git clone https://github.com/Mouadmeziane/facial-emotion-inception-unet.git
 cd facial-emotion-inception-unet
 ```
 
